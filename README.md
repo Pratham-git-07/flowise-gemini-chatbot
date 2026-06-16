@@ -35,9 +35,9 @@ google-gemini-chatbot/
 │   └── qna-chatbot-flowise.json
 ├── images/
 │   └── chatbot-workflow.png
-├── README.md
+├── .gitignore
 ├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ## Future Improvements
